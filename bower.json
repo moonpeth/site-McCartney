@@ -1,0 +1,25 @@
+{
+  "name": "FoundationVersion",
+  "version": "0.0.0",
+  "authors": [
+    "pol-jiang <moonpeth@gmail.com>"
+  ],
+  "description": "first try",
+  "main": "index.html",
+  "keywords": [
+    "000"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.3"
+  }
+}
